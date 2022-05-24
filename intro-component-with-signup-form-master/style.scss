@@ -15,8 +15,8 @@ $color-grayishBlue: hsl(246, 25%, 77%);
 
 body{
     display: flex;
-    // align-items: center;
     justify-content: center;
+
     height: 157vh;
     font-family: "Poppins", Arial, Helvetica, sans-serif;
 }
@@ -68,6 +68,7 @@ main{
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    text-align: center;
 
     // border: 1px solid black;
     width: 100%;
